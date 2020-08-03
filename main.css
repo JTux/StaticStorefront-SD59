@@ -2,3 +2,7 @@ body {
     background-color: rebeccapurple;
     color: yellow;
 }
+
+a {
+    color: white !important;
+}
